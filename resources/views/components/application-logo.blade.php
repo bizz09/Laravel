@@ -1,0 +1,1 @@
+<img src="img/gaz.png" alt="" width="80">
